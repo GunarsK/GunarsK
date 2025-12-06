@@ -22,9 +22,3 @@ Backend / Full-stack engineer based in Latvia, open to remote EU positions.
 | **CI/CD** | Multi-layered security scanning (gosec, Trivy, TruffleHog), OIDC deployments |
 | **Database** | 4-tier security model, audit logging, RBAC |
 | **E2E Tests** | 197+ test steps across 18 Playwright suites |
-
-### Contact
-
-📫 gunarskunakovs@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/gunars-kunakovs/)  
-🌐 [gunarsk.com](https://gunarsk.com)
