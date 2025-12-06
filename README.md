@@ -21,12 +21,12 @@ Backend / Full-stack engineer based in Latvia, open to remote EU positions.
 
 | Component | Highlights |
 |-----------|------------|
-| **Backend** | 6 Go & .NET services, 583+ unit tests, clean architecture |
+| **Backend** | 6 Go & .NET services, 600+ unit tests, clean architecture |
 | **Frontend** | Vue.js SPA with modern UI, state management, API integration |
 | **Database** | PostgreSQL & Oracle, 4-tier security model, audit logging, RBAC |
 | **AWS Infrastructure** | Aurora Serverless, WAF rate limiting, CloudFront CDN |
 | **CI/CD** | Multi-layered security scanning (gosec, Trivy, TruffleHog), OIDC deployments |
-| **E2E Tests** | 197+ test steps across 18 Playwright suites |
+| **E2E Tests** | 200+ test steps across 18 Playwright suites |
 
 ---
 
