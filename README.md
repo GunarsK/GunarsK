@@ -32,5 +32,5 @@ Backend / Full-stack engineer based in Latvia, open to remote EU positions.
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/gunarsk)  
+- [LinkedIn](https://www.linkedin.com/in/gunars-kunakovs/)  
 - [Personal Portfolio](https://gunarsk.com)  
