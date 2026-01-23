@@ -21,7 +21,7 @@ Backend / Full-stack engineer based in Latvia, open to remote EU positions.
 
 | Component | Highlights |
 |-----------|------------|
-| **Backend** | 6 Go & .NET services, 600+ unit tests, clean architecture |
+| **Backend** | 6 Go services, 600+ unit tests, clean architecture |
 | **Frontend** | Vue.js SPA with modern UI, state management, API integration |
 | **Database** | PostgreSQL & Oracle, 4-tier security model, audit logging, RBAC |
 | **AWS Infrastructure** | Aurora Serverless, WAF rate limiting, CloudFront CDN |
