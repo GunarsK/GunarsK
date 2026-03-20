@@ -15,7 +15,21 @@ Backend / Full-stack engineer based in Latvia, open to remote EU positions.
 
 ---
 
-### 🚀 Current Project
+### 🚀 Current Projects
+
+
+**[Cosmere RPG Character Sheet Manager](https://github.com/GunarsK-rpg)** — Character sheet management app for the Cosmere RPG tabletop game:
+
+| Component | Highlights |
+|-----------|------------|
+| **Backend** | Go/Gin REST API, JWT auth with Redis sessions |
+| **Frontend** | Vue 3/Quasar PWA, Pinia state management |
+| **Database** | PostgreSQL stored-function architecture, Flyway migrations, audit logging |
+| **Infrastructure** | Docker Compose, Traefik routing, Terraform on AWS |
+
+🌐 [rpg.gunarsk.com](https://rpg.gunarsk.com/)
+
+---
 
 **[Portfolio Platform](https://github.com/GunarsK-portfolio)** — Full-stack microservices platform showcasing production-ready patterns:
 
@@ -27,6 +41,8 @@ Backend / Full-stack engineer based in Latvia, open to remote EU positions.
 | **AWS Infrastructure** | Aurora Serverless, WAF rate limiting, CloudFront CDN |
 | **CI/CD** | Multi-layered security scanning (gosec, Trivy, TruffleHog), OIDC deployments |
 | **E2E Tests** | 200+ test steps across 18 Playwright suites |
+
+🌐 [gunarsk.com](https://gunarsk.com/)
 
 ---
 
